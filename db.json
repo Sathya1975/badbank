@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "name": "sathya",
+      "email": "sathya@gmail.com",
+      "balance": "0",
+      "password": "sathya",
+      "transactions": "GIpmOs9ja"
+    },
+    {
+      "name": "varshini",
+      "email": "varshini@gmail.com",
+      "balance": "0",
+      "password": "varshini",
+      "transactions": "En5HW7ODK"
+    },
+    {
+      "name": "rajesh",
+      "email": "rajesh@gmail.com",
+      "balance": "0",
+      "password": "rajesh",
+      "transactions": "aaw20GIh3"
+    },
+    {
+      "name": "venkat",
+      "email": "venkat@gmail.com",
+      "balance": "0",
+      "password": "venkat",
+      "transactions": "mWqF6WRfN"
+    }
+  ],
+  "transactions": [
+    {
+      "name": "audit",
+      "email": "sathya@gmail.com",
+      "balance": "20000",
+      "password": "audit",
+      "transactions": "VWqNbEQLQ"
+    },
+    {
+      "name": "audit",
+      "email": "varshini@gmail.com",
+      "balance": "23456",
+      "password": "audit",
+      "transactions": "NvqXGI4PY"
+    },
+    {
+      "name": "audit",
+      "email": "rajesh@gmail.com",
+      "balance": -4559,
+      "password": "audit",
+      "transactions": "M2GPGH98J"
+    },
+    {
+      "name": "audit",
+      "email": "sathya@gmail.com",
+      "balance": "100",
+      "password": "audit",
+      "transactions": "ekmF5OKI6"
+    },
+    {
+      "name": "audit",
+      "email": "venkat@gmail.com",
+      "balance": -5000,
+      "password": "audit",
+      "transactions": "tR4mLK6aZ"
+    },
+    {
+      "name": "audit",
+      "email": "venkat@gmail.com",
+      "balance": "6000",
+      "password": "audit",
+      "transactions": "f9Oa1rMbv"
+    }
+  ],
+  "balance": [
+    {
+      "email": "sathya@gmail.com",
+      "balance": 20100
+    },
+    {
+      "email": "varshini@gmail.com",
+      "balance": "23456"
+    },
+    {
+      "email": "rajesh@gmail.com",
+      "balance": "4559"
+    },
+    {
+      "email": "venkat@gmail.com",
+      "balance": 1000
+    }
+  ]
+}
